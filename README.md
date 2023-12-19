@@ -1,8 +1,8 @@
 <table>
     <tr>
         <th>Function</th>
-        <th>Me</th>
-        <th>Mayah</th>
+        <th>main.js (test-cc)</th>
+        <th>main.js (cc-d4-rice-cooker-ci-NyAndoMayah)</th>
     </tr>
     <tr>
         <td>addRice()</td>
